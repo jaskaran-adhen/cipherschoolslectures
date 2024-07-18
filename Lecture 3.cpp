@@ -1,0 +1,1 @@
+In this lecture, I learned about variables, constants, and data types. 
